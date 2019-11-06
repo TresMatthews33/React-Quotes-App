@@ -14,9 +14,21 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(131, 88, 88);
 }
 
 .App-link {
   color: #09d3ac;
 }
+
+.quoteBox {
+  text-align: center;
+}
+
+button {
+  border: outset;
+  border-color: turquoise;
+  background-color: cornflowerblue;
+  font-size: 25px;
+  border-radius: 2px;
+};
